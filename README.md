@@ -5,6 +5,7 @@ This project applies computer vision techniques on medical images (HAM10000 data
 ## Dataset
 
 HAM10000 Skin Cancer Dataset
+https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
 ## Pipeline
 
