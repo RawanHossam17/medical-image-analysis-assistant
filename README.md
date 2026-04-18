@@ -19,6 +19,6 @@ https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
 ## Structure
 
-* notebooks/ → experiments
-* results/ → outputs
-* report/ → final report
+* notebooks/  experiments
+* results/  outputs
+* report/  final report
